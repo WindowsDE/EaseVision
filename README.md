@@ -1,2 +1,2 @@
-# VisionEase
-The MCTexturePackage
+# EaseVision
+The Minecraft Texture Package
